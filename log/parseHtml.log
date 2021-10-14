@@ -1,0 +1,19 @@
+
+2021-10-14 18:00:05,320 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:00:05,320 INFO  ParserHtml [ParserHtml.java:40] get text https://www.simbirsoft.com/
+2021-10-14 18:00:06,429 INFO  ParserHtml [ParserHtml.java:51] parsing text
+2021-10-14 18:00:10,273 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:00:10,273 INFO  ParserHtml [ParserHtml.java:40] get text https://www.simbirsoft.com/
+2021-10-14 18:00:11,320 INFO  ParserHtml [ParserHtml.java:51] parsing text
+2021-10-14 18:04:05,476 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:04:05,476 INFO  ParserHtml [ParserHtml.java:40] get text https://www.simbirsoft.com/
+2021-10-14 18:04:06,226 INFO  ParserHtml [ParserHtml.java:51] parsing text
+2021-10-14 18:19:27,523 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:19:27,523 INFO  ParserHtml [ParserHtml.java:47] get text https://www.simbirsoft.com/
+2021-10-14 18:19:28,663 INFO  ParserHtml [ParserHtml.java:58] parsing text
+2021-10-14 18:19:46,726 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:19:46,726 INFO  ParserHtml [ParserHtml.java:47] get text https://www.simbirsoft.com/
+2021-10-14 18:19:47,804 INFO  ParserHtml [ParserHtml.java:58] parsing text
+2021-10-14 18:20:55,914 INFO  Main [Main.java:18] input https://www.simbirsoft.com/
+2021-10-14 18:20:55,914 INFO  ParserHtml [ParserHtml.java:47] get text https://www.simbirsoft.com/
+2021-10-14 18:20:56,976 INFO  ParserHtml [ParserHtml.java:58] parsing text
